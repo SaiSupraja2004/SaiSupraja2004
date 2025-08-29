@@ -1,6 +1,6 @@
-Sai Supraja Dharani
+# Sai Supraja Dharani
 # 💫 About Me:
-- 🔭 I’m currently working on web development projects and improving my frontend skills.<br>- 🌱 I’m currently learning Cloud Computing, Networking (CCNA), and Security Tools.<br>- 👯 I’m looking to collaborate on open-source projects and machine learning models.<br>- 🤔 I’m looking for help with advanced JavaScript and deploying ML models.<br>- 💬 Ask me about HTML, CSS, JavaScript, Python, Git, and GitHub.<br>- 📫 How to reach me: saisupraja1126@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I love solving coding problems and experimenting with new tech stacks!<br>
+- 🔭 I’m currently working on web development projects and improving my frontend skills and DS using Python.<br>- 🌱 I’m currently learning Cloud Computing, Networking (CCNA), and Security Tools.<br>- 👯 I’m looking to collaborate on open-source projects and machine learning models.<br>- 🤔 I’m looking for help with advanced JavaScript and deploying ML models.<br>- 💬 Ask me about HTML, CSS, JavaScript, Python, Git, and GitHub.<br>- 📫 How to reach me: saisupraja1126@gmail.com<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I love solving coding problems and experimenting with new tech stacks!<br>
 
 
 ## 🌐 Socials:
